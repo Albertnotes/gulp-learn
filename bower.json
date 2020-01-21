@@ -1,0 +1,21 @@
+{
+  "name": "bs_homework",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Albert <sab4856@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
+}
